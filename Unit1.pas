@@ -16,6 +16,7 @@ type
     procedure Button2Click(Sender: TObject);
     procedure FormCreate(Sender: TObject);
   private
+    /// <link>aggregation</link>
     MyClass: TInterfaceMyClass;
   public
     { Public declarations }

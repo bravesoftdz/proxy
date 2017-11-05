@@ -6,30 +6,30 @@
     <property name="$name" value="default" />
     <reference referencedUin="delphi:e_class:src:Project1:Unit2.TMyClassProxy">
       <property name="$shortcutReference" value="true" />
-      <property name="bounds" value="200,360,129,130" />
+      <property name="bounds" value="260,200,129,130" />
       <property name="location_set_by_user" value="True" />
       <reference referencedUin="delphi:e_field:src:Project1:Unit2.TMyClassProxy.MyClass" />
       <reference referencedUin="delphi:e_method:src:Project1:Unit2.TMyClassProxy.click(System.string)" />
       <reference referencedUin="delphi:e_method:src:Project1:Unit2.TMyClassProxy.create()" />
       <reference referencedUin="delphi:l_impl:src:Project1:Unit2.TMyClassProxy:Unit2.TInterfaceMyClass">
-        <property name="sourceAnchor" value="306,360" />
-        <property name="targetAnchor" value="474,101" />
+        <property name="sourceAnchor" value="380,200" />
+        <property name="targetAnchor" value="465,101" />
         <property name="bendpoints" value="" />
       </reference>
       <reference referencedUin="delphi:l_ast:src:Project1:Unit2.TMyClassProxy.MyClass">
-        <property name="sourceAnchor" value="329,455" />
-        <property name="targetAnchor" value="440,455" />
+        <property name="sourceAnchor" value="389,249" />
+        <property name="targetAnchor" value="540,249" />
         <property name="bendpoints" value="" />
       </reference>
     </reference>
     <reference referencedUin="delphi:e_class:src:Project1:Unit2.TMyClass">
       <property name="$shortcutReference" value="true" />
-      <property name="bounds" value="440,420,129,98" />
+      <property name="bounds" value="540,200,129,98" />
       <property name="location_set_by_user" value="True" />
       <reference referencedUin="delphi:e_method:src:Project1:Unit2.TMyClass.click(System.string)" />
       <reference referencedUin="delphi:l_impl:src:Project1:Unit2.TMyClass:Unit2.TInterfaceMyClass">
-        <property name="sourceAnchor" value="501,420" />
-        <property name="targetAnchor" value="501,101" />
+        <property name="sourceAnchor" value="551,200" />
+        <property name="targetAnchor" value="551,101" />
         <property name="bendpoints" value="" />
       </reference>
     </reference>

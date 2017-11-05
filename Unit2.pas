@@ -12,6 +12,7 @@ type
   end;
 
   TMyClassProxy = class(TInterfacedObject, TInterfaceMyClass)
+    /// <link>aggregation</link>
     MyClass: TMyClass;
     function click(text: string): string;
     constructor create;
